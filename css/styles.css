@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Raleway:400,700&display=swap');
+body{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: hsl(243, 87%, 12%);
+}
+header {
+    padding: 30px;
+}
+#logo {
+    width: 100px;
+    float: left;
+}
+ul {
+    list-style: none;
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+li {
+    float: left;
+}
+li a {
+    color: #000;
+    text-align: right;
+    padding: 16px;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+main {
+    margin-top: 80px;
+    padding: 56px;
+}
+.illustrations {
+    width: 100%;
+}
+h1 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 1.4;
+}
+p {
+    font-size: 20px;
+    line-height: 1.5;
+}
+form {
+}
+#email {
+    width: 100%;
+    border: 1px solid hsl(243, 87%, 12%);
+    border-radius: 6px;
+    padding: 1em;
+    font-size: 16px;
+}
